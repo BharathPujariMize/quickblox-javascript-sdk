@@ -13,9 +13,9 @@
 
     var CREDENTIALS = {
         'prod': {
-            'appId': 51377,
-            'authKey': 'a3vWjVNsDR-TZxN',
-            'authSecret': 'fH7uuvQ66Mt2jf6'
+            'appId': 40718,
+            'authKey': 'AnB-JpA6r4y6RmS',
+            'authSecret': '3O7Sr5Pg4Qjexwn'
         },
         'test': {
             'appId': 51377,
